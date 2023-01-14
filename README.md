@@ -14,4 +14,6 @@
 - The system is built fully in Django Framework in back-end and HTML, CSS in front-end. It has a full-featured user interface with all the functionalities of a bill-generating website. It also provides a separate billing section where the user can fill up the customer details. They can also save the invoice in pdf format.
 
 
+# || ** Project Image ** ||
+
 <img src="https://github.com/pranita28Dane/Invoice-Generator/blob/dev/invoice.png">
